@@ -29,6 +29,7 @@ export default {
 <style lang="scss">
 	body{
 		background: #f9f9f9;
+		font-family: 'Roboto', sans-serif;
 	}
 	.header {
 		text-align: center;
